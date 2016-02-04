@@ -1,21 +1,29 @@
-# fill-with
+# fill-me
 
 > Makes your console colorful.
 
 ## Install
 
 ```
-$ npm install --global fill-with
+$ npm install --global fill-me
 ```
 
 ## Usage
 
 ```
-$ fill-with -u . [ Don't forget to put .]
+$ fill-me -w 118 -l 37
 
   Usage
 
-    $ fill-with -u .
+    $ fill-me
+
+    	Options:
+  		    	-w  Change width when you resize your console.                  [required]
+ 	   	    	-l  Adjust rainbow's height                                     [required]
+
+Missing required arguments: w, l
+
+	$ fill-me -w 118 -l 37
 
 ```
 ## Screenshot

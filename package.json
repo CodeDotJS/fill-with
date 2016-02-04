@@ -1,5 +1,5 @@
 {
-  "name": "fill-with",
+  "name": "fill-me",
   "version": "1.0.0",
   "description": "Makes your console colorful.",
   "license": "MIT",
@@ -27,6 +27,9 @@
     "text",
     "colors",
     "fill",
+    "console",
+    "fill-with",
+    "fill-me",
     "rainbow"
   ],
   "dependencies": {
