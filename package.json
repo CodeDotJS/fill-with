@@ -1,0 +1,53 @@
+{
+  "name": "fill-with",
+  "version": "1.0.0",
+  "description": "Makes your console colorful.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/fill-with"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "bin": {
+    "insta-id-of": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "terminal",
+    "text",
+    "colors",
+    "fill",
+    "rainbow"
+  ],
+  "dependencies": {
+    "minimist": "*",
+    "yargs": "*",
+    "ansi-rainbow":"*",
+    "chalk":"*",
+    "colors": "*"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.2.2",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/fill-with/issues"
+  },
+  "homepage": "https://github.com/codedotjs/fill-with#readme",
+  "main": "cli.js",
+  "readmeFilename": "README.md"
+}
