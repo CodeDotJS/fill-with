@@ -1,6 +1,6 @@
 {
   "name": "fill-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes your console colorful.",
   "license": "MIT",
   "repository": {
@@ -35,8 +35,8 @@
   "dependencies": {
     "minimist": "*",
     "yargs": "*",
-    "ansi-rainbow":"*",
-    "chalk":"*",
+    "ansi-rainbow": "*",
+    "chalk": "*",
     "colors": "*"
   },
   "devDependencies": {
