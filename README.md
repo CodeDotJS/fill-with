@@ -26,7 +26,7 @@ $ fill-with -u . [ Don't forget to put .]
 
 ## Related
 
-Separated Version [Instagram UserID](https://github.com/CodeDotJS/ColorTerminal)
+Separated Version [Color Terminal](https://github.com/CodeDotJS/ColorTerminal)
 
 
 ## License
