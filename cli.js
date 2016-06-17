@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+'use strict';
+
 const ansi = require('ansi-rainbow');
 const chalk = require('chalk');
 
